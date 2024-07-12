@@ -1,0 +1,19 @@
+# Датасеты
+/itog.csv
+/PQv2_for_pandas.xlsx
+/PQv2_raw.xlsx
+/X_features.csv
+
+# Анализ данных
+Data_analysis.ipynb
+
+# Модели
+/Transformer_encoder_classifier.pth
+/Transformer_encoder_regression_salts.pth
+/Catboost_classifier.cbm
+/XGBoost_classifier.json
+
+
+# Файлы кэша
+**/__pycache__/
+/catboost_info
